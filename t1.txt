@@ -5,5 +5,4 @@ changed in github
 inserted from new branch
 again changed in local
 hey there
-oh my god
-git 
+
